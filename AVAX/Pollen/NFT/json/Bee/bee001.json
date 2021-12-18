@@ -1,7 +1,7 @@
 {
     "name": "PollenNFT-Bee",
     "description": "PollenNFT",
-    "image": "https://github.com/tokensimage/images/AVAX/Pollen/NFT/Bee/Bee001.png",
+    "image": "https://tokensimage.github.io/images/AVAX/Pollen/NFT/Bee/Bee001.png",
     "attributes": [
         {
             "trait_type": "Value",
