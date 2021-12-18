@@ -1,0 +1,11 @@
+{
+    "name": "PollenNFT-Flower",
+    "description": "PollenNFT",
+    "image": "https://github.com/tokensimage/images/AVAX/Pollen/NFT/Flower/Flower004.png",
+    "attributes": [
+        {
+            "trait_type": "Value",
+            "value": "Flower"
+        }
+    ]
+}
