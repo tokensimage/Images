@@ -1,0 +1,11 @@
+{
+    "name": "WOR Genesis",
+    "description": "WOR NFT",
+    "image": "https://tokensimage.github.io/images/BSC/WorDAO/NFT/genesis.png",
+    "attributes": [
+        {
+            "trait_type": "Value",
+            "value": "Genesis"
+        }
+    ]
+}

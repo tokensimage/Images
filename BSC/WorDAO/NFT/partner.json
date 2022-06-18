@@ -1,0 +1,11 @@
+{
+    "name": "WOR Partner",
+    "description": "WOR NFT",
+    "image": "https://tokensimage.github.io/images/BSC/WorDAO/NFT/partner.png",
+    "attributes": [
+        {
+            "trait_type": "Value",
+            "value": "Partner"
+        }
+    ]
+}
